@@ -1,0 +1,17 @@
+* {
+    background-color: lightblue;
+    font-family: sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+.title {
+    color: blue; 
+    font-size: 40px;
+}
+
+#bio {
+    color: blue
+}
